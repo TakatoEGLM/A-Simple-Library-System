@@ -66,7 +66,7 @@ class LibraryApp:
                 break
             else:
                 print("Invalid option. Please choose a valid option.")
-
+                
 if __name__ == "__main__":
     print("=== Welcome to Library ===\n")
     app = LibraryApp()
